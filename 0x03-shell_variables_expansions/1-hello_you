@@ -1,0 +1,3 @@
+vim 1-hello_you
+#!/bin/bash
+echo "hello $USER"
